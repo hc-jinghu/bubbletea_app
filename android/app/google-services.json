@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234825789693",
+    "project_id": "bubbleteaapp-b08ba",
+    "storage_bucket": "bubbleteaapp-b08ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234825789693:android:0630ab0d55c509af208e94",
+        "android_client_info": {
+          "package_name": "com.example.bubbleteaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaN5cQh34CTwAdr-AgYWSyaEX487y4Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
